@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: fd4f6ea6f2aeff6499c5ba198a109ec7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 75
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2000189f0bd9c2d429dc5eed2d5c288b
+      internalID: -1900359774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 55
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf656089ba183d74f9da58066f0bb3fc
+      internalID: -1407892695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 79
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b8e9a455d0e54d9c59d1d81a9b3f4
+      internalID: -39584092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 79
+        width: 117
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba104d88c559b40a9f4d3e6f26155e
+      internalID: -280401953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_4
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 79
+        width: 117
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e11726afddc2ba449ae879681e5c755
+      internalID: -1643968744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 79
+        width: 112
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.92}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922a2848a2465c74dbee3ed700fc03a6
+      internalID: 701108278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_6
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 79
+        width: 141
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 1.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c38fde0a4b88f4e85d553ddaefcf94
+      internalID: -886806730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_7
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 79
+        width: 141
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 1.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bccde56fcdc2d419c5acb2ca2b3c43
+      internalID: -819228403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_8
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 79
+        width: 141
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 1.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb10fed3250e3a9448fd5684571aa751
+      internalID: -1445308516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_9
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 79
+        width: 131
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 1.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5149f193ea554185b7e9ebb0b462b
+      internalID: 527488062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_11
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 79
+        width: 96
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce6f50285aa4b4292b5289aa4787f8
+      internalID: -1798476051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zweihander_Combo_01_12
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 79
+        width: 96
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dfc5e8ab2223c4fbec3eb281cabce1
+      internalID: 122092733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zweihander_Combo_01_0: -1900359774
+      Zweihander_Combo_01_1: -1407892695
+      Zweihander_Combo_01_10: 1964250843
+      Zweihander_Combo_01_11: -1798476051
+      Zweihander_Combo_01_12: 122092733
+      Zweihander_Combo_01_2: -39584092
+      Zweihander_Combo_01_3: -280401953
+      Zweihander_Combo_01_4: -1643968744
+      Zweihander_Combo_01_5: 701108278
+      Zweihander_Combo_01_6: -886806730
+      Zweihander_Combo_01_7: -819228403
+      Zweihander_Combo_01_8: -1445308516
+      Zweihander_Combo_01_9: 527488062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
